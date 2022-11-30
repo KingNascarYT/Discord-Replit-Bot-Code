@@ -17,3 +17,6 @@ Bye!
 client.on("message", message => {
   if(message.content === "ping") {
     message.channel.send("pong")
+
+(edit: you CAN do this in Visual Studio, Visual Studio Code too! Just make sure you have discord.js installed.
+i will show how to do in another README)
